@@ -4,13 +4,13 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Youtube
-    url: https://www.youtube.com/
+    url: https://www.youtube.com
   - name: Yahoo
-    url: https://tw.yahoo.com/
+    url: https://tw.yahoo.com
   - name: Kaggle
-    url: https://www.kaggle.com/
+    url: https://www.kaggle.com
   - name: Commercial Times
-    url: https://ctee.com.tw/
+    url: https://ctee.com.tw
   - name: The Wall Street Journal
     url: https://cn.wsj.com/zh-hant
   - name: Fake 
